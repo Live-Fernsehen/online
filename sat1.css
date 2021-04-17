@@ -1,0 +1,10 @@
+* {
+    background: #000;
+}
+
+.video {
+    position: relative;
+    top: 50px;
+    width: 50%;
+    text-align: center;
+}
